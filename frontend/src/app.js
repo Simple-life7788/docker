@@ -47,7 +47,7 @@ class App extends Component {
   //   pagePath: "pages/cate/cate",
   //   iconPath: "./assets/cate.png",
   //   selectedIconPath: "./assets/cate-active.png",
-  //   text: "分类"4411
+  //   text: "分类"441166
   // },
   config = {
     pages: ['pages/home/home', 'pages/cart/cart', 'pages/user/user'],
