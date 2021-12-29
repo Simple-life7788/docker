@@ -52,7 +52,7 @@ class App extends Component {
   config = {
     pages: ['pages/home/home', 'pages/cart/cart', 'pages/user/user'],
     window: {
-      navigationBarTitleText: '开课吧'
+      navigationBarTitleText: '开课吧123'
     },
     tabBar: {
       selectedColor: '#b4282d',
