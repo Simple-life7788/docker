@@ -1,4 +1,4 @@
-echo Deploy Project
+echo Deploy Project123
 # docker-compose up -d --force-recreate --build
 
 # 获取最新版代码
