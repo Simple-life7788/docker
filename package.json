@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/su37josephxia/docker_ci/issues"
+    "url": "git+https://github.com/Simple-life7788/docker/issues"
   },
-  "homepage": "https://github.com/su37josephxia/docker_ci#readme",
+  "homepage": "git+https://github.com/Simple-life7788/docker#readme",
   "dependencies": {
     "github-webhook-handler": "^0.7.1"
   }
