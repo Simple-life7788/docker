@@ -30,7 +30,7 @@ global.getData = url => {
     url: global.url + url
   }).then(res => {
     Taro.hideLoading({
-      title: '加载中'
+      title: '加载中111'
     })
     if (res.statusCode == 200 && res.data.code == 0) {
       return res.data.data
