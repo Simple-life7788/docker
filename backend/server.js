@@ -37,7 +37,7 @@ app.get('/api/top', async (req, res) => {
   //33333
   res.json({
     code: 0,
-    data: newData.slice(0, 5)
+    data: newData.slice(0, 3)
   })
 })
 
