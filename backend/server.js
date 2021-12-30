@@ -34,7 +34,7 @@ app.get('/api/top', async (req, res) => {
   newData.sort((a, b) => {
     return b.solded - a.solded
   })
-  //33333
+  //3333333
   res.json({
     code: 0,
     data: newData.slice(0, 2)
